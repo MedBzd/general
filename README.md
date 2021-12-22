@@ -1,5 +1,4 @@
 # General
-Templates and configurations for various projects and deployment scenarios
 
 General for Automation and Deployment
 These are my templates and configurations I use in various projects and deployment scenarios. They are based on automation and deployment tools such as Ansible, Docker, Terraform, and much more.
